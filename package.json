@@ -50,7 +50,7 @@
 		"@types/mocha": "^7.0.2"
 	},
 	"dependencies": {
-		"inversify": "^5.0.1",
+		"inversify": "^5.0.5",
 		"reflect-metadata": "^0.1.13"
 	}
 }
